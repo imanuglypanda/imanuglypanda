@@ -1,1 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanuglypanda)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanuglypanda&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanuglypanda&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanuglypanda&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanuglypanda&show_icons=true&theme=radical)
